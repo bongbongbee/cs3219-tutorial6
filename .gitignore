@@ -2,7 +2,7 @@
 run.sh
 stop.sh
 launch-hornetq-server.bat
-
+logs/
 *.class
 
 # Mobile Tools for Java (J2ME)
