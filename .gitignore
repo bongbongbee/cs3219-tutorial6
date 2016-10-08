@@ -1,3 +1,7 @@
+### Project specific
+run.sh
+stop.sh
+
 *.class
 
 # Mobile Tools for Java (J2ME)
